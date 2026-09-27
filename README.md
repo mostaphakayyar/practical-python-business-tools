@@ -16,7 +16,7 @@ Initial development: workspace setup.
 
 Clone the repository:
 
-    git clone YOUR_REPOSITORY_URL
+    git clone https://github.com/mostaphakayyar/practical-python-business-tools
     cd practical-python-business-tools
 
 Create a virtual environment:
